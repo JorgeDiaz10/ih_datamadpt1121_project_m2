@@ -6,12 +6,20 @@
 
 Data analytics is oftentimes referred to as business intelligence, BI development, or product analytics. However, that is just the tip of the iceberg since the data analytics process includes activities such as data formation/creation, data cleansing, exploratory data analysis (especially this part), feature engineering, and interpretation of suggestions/predictions/results derived from advanced modelling analysis (i.e.: Machine Learning).
 
+View all my Tableau-Projects Dashboards on my Tableau Public Profile link - https://public.tableau.com/app/profile/jorge6129
+
 
 ```
 conda install -c anaconda sqlite
 ```
 
 ---
+
+
+
+## **Screenshot:**
+
+![Screenshot](https://github.com/JorgeDiaz10/ih_datamadpt1121_project_m2/blob/main/images/Screenshot.png)
 
 
 ---
