@@ -40,6 +40,11 @@ Jupyter Notebook and Tableau. SQLite and SQLAlchemy to extract all the informati
 ![Screenshot](https://github.com/JorgeDiaz10/ih_datamadpt1121_project_m2/blob/main/images/Screenshot.png)
 
 
+- Cities:
+
+![Screenshot](https://github.com/JorgeDiaz10/ih_datamadpt1121_project_m2/blob/main/images/Map.png)
+
+
 ---
 
 
