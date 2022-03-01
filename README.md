@@ -13,16 +13,7 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link - http
 conda install -c anaconda sqlite
 ```
 
----
 
-
-
-## **Screenshot:**
-
-![Screenshot](https://github.com/JorgeDiaz10/ih_datamadpt1121_project_m2/blob/main/images/Screenshot.png)
-
-
----
 
 
 
@@ -38,6 +29,15 @@ The aim of the project is to analyse [__diamonds_m2.db__](https://github.com/ih-
 ## __Technologies Used:__
 
 Jupyter Notebook and Tableau. SQLite and SQLAlchemy to extract all the information in a CSV file.
+
+
+---
+
+
+
+## **Dashboard:**
+
+![Screenshot](https://github.com/JorgeDiaz10/ih_datamadpt1121_project_m2/blob/main/images/Screenshot.png)
 
 
 ---
