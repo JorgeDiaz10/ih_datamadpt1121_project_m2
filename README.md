@@ -15,8 +15,6 @@ conda install -c anaconda sqlite
 
 
 
-
-
 ## **Objective:**
 
 The aim of the project is to analyse [__diamonds_m2.db__](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/db/diamonds_m2.db) `SQLite` database from differents perspectives (price, color and cut) in the cities included in it with the visualization technology Tableau.
@@ -28,7 +26,7 @@ The aim of the project is to analyse [__diamonds_m2.db__](https://github.com/ih-
 
 ## __Technologies Used:__
 
-Jupyter Notebook and Tableau. SQLite and SQLAlchemy to extract all the information in a CSV file.
+Jupyter Notebook and Tableau. SQLite and SQLAlchemy libraries to extract all the information and transform into a CSV file.
 
 
 ---
